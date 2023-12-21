@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131140358808",
+    "project_id": "push-noti-test-2eaac",
+    "storage_bucket": "push-noti-test-2eaac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131140358808:android:7060eb70fcc37cec6776ed",
+        "android_client_info": {
+          "package_name": "com.example.push_noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpM_d1qUDFQU9uwT4Bj0nw9aAVPEYcj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
