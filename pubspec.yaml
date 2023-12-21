@@ -13,6 +13,8 @@ dependencies:
   awesome_notifications: ^0.8.3
   awesome_notifications_core: ^0.8.1
   awesome_notifications_fcm: ^0.8.0
+  fluttertoast: ^8.2.4
+  http: ^1.1.2
 
 dev_dependencies:
   flutter_test:
