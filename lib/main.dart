@@ -69,7 +69,7 @@ class _MainAppState extends State<MainApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Flutter testing srctree',
       home: Scaffold(
         floatingActionButton: FloatingActionButton(
           onPressed: () {
